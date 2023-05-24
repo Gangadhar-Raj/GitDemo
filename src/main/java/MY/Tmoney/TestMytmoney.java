@@ -33,7 +33,12 @@ public class TestMytmoney {
 		  w.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(
 		  "//a[@class='opened']")));
 		  driver.findElement(By.xpath("//a[@class='opened']")).click();
-		 
+		  
+		  
+		  System.out.println("Hello im From demo");
+		  System.out.println("Hello im have done changes");
+		  
+		  
 	}
 
 }
