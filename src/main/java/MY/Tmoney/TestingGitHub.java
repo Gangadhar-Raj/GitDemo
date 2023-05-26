@@ -11,4 +11,11 @@ public class TestingGitHub {
 		  System.out.println("Hello GitXcreating branch ");
 
 	}
+	
+	@Test
+	public void testMerge()
+	{
+		  System.out.println("Hello Github merging");
+
+	}
 }
