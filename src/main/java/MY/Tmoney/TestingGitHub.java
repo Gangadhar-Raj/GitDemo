@@ -9,6 +9,8 @@ public class TestingGitHub {
 	public void testBranch()
 	{
 		  System.out.println("Hello GitXcreating branch ");
-
+		  System.out.println("Hello mer branch setting ");
 	}
+	
+	
 }
