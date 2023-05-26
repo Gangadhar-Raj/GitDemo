@@ -16,6 +16,7 @@ public class TestingGitHub {
 	public void testMerge()
 	{
 		  System.out.println("Hello Github merging");
+		  System.out.println("Hello Github merging from me");
 
 	}
 }
